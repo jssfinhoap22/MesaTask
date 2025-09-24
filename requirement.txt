@@ -1,0 +1,10 @@
+roma
+trimesh
+drake
+open_clip-torch
+sentence-transformers
+matplotlib
+numpy
+pyyaml
+compress_pickle
+accelerate
