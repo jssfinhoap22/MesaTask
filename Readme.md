@@ -2,7 +2,7 @@
 <h2 align="center"<strong>MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning</strong></h2>
 
 <p align="center">
-<a href='https://scholar.google.com/citations?hl=zh-CN&user=CJNkSiUAAAAJ' target='_blank'>Jinkun Hao</a><sup>1*</sup>,
+<a href='https://jinkun-hao.github.io/' target='_blank'>Jinkun Hao</a><sup>1*</sup>,
 <a href='#' target='_blank'>Naifu Liang</a><sup>2*</sup>,
 <a href='https://scholar.google.com/citations?user=hYXbJgcAAAAJ&hl=zh-CN' target='_blank'>Zhen Luo</a><sup>3,4*</sup>,
 <a href='https://sheldontsui.github.io/' target='_blank'>Xudong Xu</a><sup>2‡</sup>,
