@@ -93,6 +93,21 @@ tar -xvJf blender-4.3.2-linux-x64.tar.xz
 ### Layout Data & MesaTask model
 We host our dataset on [Hugging Face](https://huggingface.co/datasets/InternRobotics/MesaTask-10K/). The current version of the layout only contains 3D assets in GLB format. The layout version with URDF ([Partnet Mobaility](https://sapien.ucsd.edu/browse)) assets will be released soon.
 
+Prepare Asset Library
+```shell
+cd MesaTask-10K
+mkdir Assets_library
+
+cd Assets_library_archive
+# Merge split archive parts
+cat Assets_library_backup.tar.gz.* > Assets_library_merged.tar.gz   
+# Extract to target directory
+tar -xzvf Assets_library_merged.tar.gz -C ../Assets_library/
+
+cd ..
+rm -r Assets_library_archive
+```
+
 The Dataset structure should be as below
 ```shell
 MesaTask-10K/
