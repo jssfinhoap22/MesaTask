@@ -216,13 +216,10 @@ If you find this work useful, please consider citing our paper:
 
 ```bash
 @misc{hao2025mesatask,
-      title={MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning}, 
-      author={Jinkun Hao and Naifu Liang and Zhen Luo and Xudong Xu and Weipeng Zhong and Ran Yi and Yichen Jin and Zhaoyang Lyu and Feng Zheng and Lizhuang Ma and Jiangmiao Pang},
-      year={2025},
-      eprint={2509.22281},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2509.22281}, 
+  title={MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial Reasoning}, 
+  author={Hao, Jinkun and Liang, Naifu and Luo, Zhen and Xu, Xudong and Zhong, Weipeng and Yi, Ran and Jin, Yichen and Lyu, Zhaoyang and Zheng, Feng and Ma, Lizhuang and Pang, Jiangmiao},
+  journal={arXiv preprint arXiv:2509.22281},
+  year={2025}
 }
 
 ```
