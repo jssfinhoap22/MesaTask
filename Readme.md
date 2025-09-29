@@ -27,7 +27,7 @@
 <p align="center"><strong><span style="color: #ff0000;">NeurIPS 2025 Spotlight</span></strong></p>
 
 <div align="center">
-    <a href='https://github.com/InternRobotics/MesaTask'><img src='https://img.shields.io/badge/Paper-arXiv-%232986fc'></a> &nbsp;
+    <a href='https://arxiv.org/abs/2509.22281'><img src='https://img.shields.io/badge/Paper-arXiv-%232986fc'></a> &nbsp;
     <a href='https://mesatask.github.io/assets/MesaTask_paper.pdf'><img src='https://img.shields.io/badge/Paper-PDF-%23ff6b6b'></a> &nbsp;
     <a href='https://huggingface.co/datasets/InternRobotics/MesaTask-10K'><img src='https://img.shields.io/badge/Data-HuggingFace-%23fe236d?&logo=huggingface'></a> &nbsp;
     <a href='https://mesatask.github.io/'><img src='https://img.shields.io/badge/Home-Website-05a4a7?'></a> &nbsp;
